@@ -8,4 +8,6 @@ dependencies = [
     "aiosqlite>=0.21.0",
     "fastapi>=0.119.1",
     "fastmcp>=2.12.5",
+    "google-generativeai>=0.8.5",
+    "python-dotenv>=1.1.1",
 ]
